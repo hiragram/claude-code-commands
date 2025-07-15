@@ -57,7 +57,7 @@ ADRに書かれた内容を実現するために必要な作業をしてくだ�
 このタスクに関する補足
 
 {
-    "issue_number": "16"
+    "issue_number": "$ARGUMENTS"
 }
 
 もしissue_numberが ARGUMENTSというテキストだったら、それは引数から明示的に与えられていないという意味です。
